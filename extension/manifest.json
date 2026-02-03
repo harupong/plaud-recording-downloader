@@ -27,9 +27,7 @@
   },
   "permissions": ["downloads", "storage", "tabs"],
   "host_permissions": [
-    "https://app.plaud.ai/*",
-    "https://web.plaud.ai/*",
-    "https://api.plaud.ai/*",
+    "https://*.plaud.ai/*",
     "https://*.amazonaws.com/*"
   ],
   "web_accessible_resources": [
